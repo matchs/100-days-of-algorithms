@@ -8,3 +8,4 @@ and the [100DaysOfCode](http://100daysofcode.com/) I decided to join in with [@A
 * Code at least every two days
 * Inputs must come from `stdin` and output on `stdout`
 * Unit tests, 100% of code coverage
+* More than one programming languagem must be used
